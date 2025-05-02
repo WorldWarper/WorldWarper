@@ -1,7 +1,6 @@
 # Hello, I'm Javon
 <a href="https://linkedin.com/in/javon-davis07/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a passionate learner with a strong interest in cybersecurity, driven to protect systems, solve complex challenges, and continually expand my knowledge in the field.
 
@@ -38,7 +37,7 @@ My curiosity about how technology works and how systems are protected sparked a 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-800080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-228B22?&style=for-the-badge&logo=CompTIA&logoColor=white" />
